@@ -54,7 +54,17 @@ df.loc[df.age > 70, ["age", "survived"]]
 
 #################################
 # Shorter alternative without loc
-#################################
+#################################re visiting from out partner universities with a Double Degree agreement, you can get a degree of the FH Kiel and your home university. Our current partners are:
+
+France USMB: MMP
+Denmark UCS: MMP, ÖuU
+Latvia Vidzeme: MMP, ÖuU
+Lithuania Vilnius MRU, ÖuU
+Lithuania Vilnius VGTU
+Rumania Barbes-Bolyai:  ÖuU, MA AK
+Latvia Riga Turiba University: ÖuU
+Norway Volda , MMP, ÖuU 
+
 
 # ... if entire columns are selected
 df["age"]                                        # returns Series
@@ -71,7 +81,7 @@ df[df.departure.isin(["Cherbourg", "Queenstown"])]
 # ... using query method
 df.query("age > 70")
 df.query("age > 70 and price < 8")
-df.query("departure in ['Cherbourg', 'Queenstown']")
+df.query("departure in ['Cherbourg', 'Queenstown']")>
 
 
 ###################################
@@ -99,7 +109,7 @@ df.sort_index(inplace=True)   # modify DataFrame inplace
 # 5. Aggregate
 ###################################
 
-# Standard aggregation functions
+# Standard aggregation functions>
 df.price.mean()              # skip missing values
 df.price.mean(skipna=False)  # do not skip missing values
 df.price.min()

@@ -1,0 +1,13 @@
+product_id,name,product_type,tags,price,origin,remarks
+101,banana,fruit,"fresh, organic",1.99,"Ecuador, Guayas",
+102,apple,fruit,imported,3.49,"Germany, Brandenburg",
+103,cherry,fruit,"local, small",2.99,"Germany, Bavaria",
+104,date,fruit,,2.5,"Iran, Yazd",
+105,elderberry,fruit,organic,4.5,"Germany, Schleswig-Holstein",
+106,kiwi,fruit,local,2.25,"New Zealand, Bay of Plenty",
+107,lemon,fruit,imported,1.75,"Spain, Valencia",
+108,carrot,vegetable,organic,1.1,"Netherlands, North Holland",
+109,broccoli,vegetable,fresh,1.8,"Germany, Saxony",
+110,spinach,vegetable,,1.6,"Germany, Saxony",
+111,radish,vegetable,,1.3,"Germany, Hesse",
+112,zucchini,vegetable,summer,1.4,"Italy, Tuscany",

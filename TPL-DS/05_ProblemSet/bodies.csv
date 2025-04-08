@@ -1,0 +1,331 @@
+BODY_NO;GENDER;CLOTHING;ESTIMATED_AGE
+1;male;"Overcoat, grey; one grey coat; one blue coat; grey woolen jersey; white shirt; grey knickers; black stockings; black boots ";
+2;male;"Brown tweed coat; white steward's jacket; brown waist coat; Blue serge trousers; black shoes; White Star cap. MARKS ON CLOTHES - ""G. Levett"" ";24.0
+3;female;"Grey cloth jacket; red jersey jacket; blue alpaca blouse; blue serge skirt; Woolen combinations; black stockings; black boots; grey cholera belt; one suede glove, grey. ";40.0
+4;male;"Grey coat with fur on collar and cuffs; brown serge frock; Petticoat; flannel garment; pink woolen singlet; brown shoes and stockings. ";2.0
+5;female;"Blue waterproof; black jacket and skirt; pink and white striped jacket; blue and red petticoat and fur boa; black boots and ribbed stockings. ";
+6;male;"Blue serge coat and vest; black trousers; blue and white check Shirt; no socks; black boots. ON RIGHT HAND - Blue tattoo mark, and copper wire ring on right thumb. ";
+7;female;"Blue waterproof; black skirt and undershirt; white undervest and Chemise; black lawn shoes and black stockings; set false upper teeth. ";6.0
+8;female;"Red striped skirt; green petticoat; grey ditto; knitted ditto; blue flanelette drawers; black button boots and rubbers, size 8; thick grey stockings. ";25.0
+9;male;"Grey mixture suit; handkerchief with blue border. ";22.0
+10;male;;25.0
+11;male;"Black coat; blue trousers; black boots. ";45.0
+12;female;"Black velvet coat; jacket and skirt; blue cardigan; black apron; black boots and stockings. ";
+13;female;"Green cotton blouse; blue ditto underneath; striped cotton skirt; blue petticoat; one shoe. ";30.0
+14;male;"Green overcoat; blue serge suit; red striped shirt; two scarves. ";
+15;male;"Grey overcoat with green lining; brown suit. ";
+16;male;"Dark grey overcoat; black suit; black gloves; underclothing; marked "" G. R"". ";50.0
+17;male;"Grey overcoat; brown suit; handkerchief, ""J. Chapman"". ";30.0
+18;male;"Dark suit; white shirt with green stripe; knitted socks; black boots. ";
+19;male;"Dressing gown; grey coat; green ditto; blue trousers. ";50.0
+20;male;"Blue coat; blue White Star jersey; blue trousers; one black boot; green socks. ";28.0
+21;male;"Grey tweed coat; Steward's jacket, vest and trousers; washing mark ""F"". ";25.0
+22;male;"Blue overcoat; blue suit; white dress waistcoat; black boots and purple socks; two vests marked ""R. A.""; pink drawers also marked ""R. A."" ";60.0
+23;male;"Striped Steward's coat marked ""W. A. Storr""; Steward's vest and apron; shirt marked ""L. Turner."" ";25.0
+24;male;"Blue jersey; blue and red flannel shirt; green trousers; no socks; black boots. ";20.0
+25;male;"Grey overcoat, white coat marked ""A. Hayter""; blue steward's coat, vest and pants; black boots; two pairs trousers; green and white shirt. ";45.0
+26;male;"Blue serge jacket; white steward's coat; check cotton trousers; flannel singlet; belt. ";32.0
+27;male;"Pilot cloth overcoat; striped flannel coat; black trousers ; vest; singlet; black button boots, cloth uppers. ";19.0
+28;male;"Black coat; grey trousers; check shirt; black boots. ";30.0
+29;male;"Blue jersey; blue trousers; grey flannel underwear; black boots and socks. ";22.0
+30;male;"Blue coat; dungaree trousers; grey flannel underwear; S. & F. union badge. ";22.0
+31;male;"Brown coat and trousers; no socks; striped shirt; purple knitted tie. ";35.0
+32;male;"Green coat and trousers; black socks and boots. ";30.0
+33;male;"Brown boiler suit; grey flannel shirt and belt. ";30.0
+34;male;Blue suit and green shirt. ;34.0
+35;male;"Black coat; grey mixture tweed trousers and vest; red tie; black boots. ";40.0
+36;male;Steward's uniform. ;35.0
+37;male;"Striped trousers; blue coat and vest; striped shirt; black boots. ";30.0
+38;male;"Black overcoat; grey suit; black and grey necktie; blue shirt; green pyjamas with black stripe; underclothes; patent leather shoes; four gold teeth, top left, and five below left. ";
+39;male;"Evening dress trousers; black double breasted overcoat; brown jacket and vest; no boots. ";25.0
+40;male;"Brown covert coat; White Star blue jersey; blue coat and vest. ";28.0
+41;male;"D. B. coat and pants; white steward's jacket marked ""J. Stone""; black boots and socks. ";22.0
+42;male;"Green striped coat; blue pants and vest; no shirt; black boots. ";45.0
+43;male;"Blue serge suit; white shirt with black spots; brown boots. ";32.0
+44;male;"Stewards coat with blue pants' white shirt, marked "" F. W. I."" ";21.0
+45;male;"Grey overcoat marked ""E. K., inside pocket; black suit; striped shirt; black boots. ";32.0
+46;male;"Black coat, vest and trousers; black boots. ";60.0
+47;male;"Grey coat, vest and pants; green shirt. ";30.0
+48;male;"Steward's coat, vest and trousers; flannel shirt. ";35.0
+49;male;"Black coat; Steward's white coat; black trousers. ";40.0
+50;male;"Black coat; no vest, blue striped flannel shirt. ";30.0
+51;male;"Striped green and grey cloth suit; brown striped shirt; black boots. ";
+52;female;"Black coat and skirt; fur boa; striped cotton chemise; woolen singlet; black button boots; stockings. ";60.0
+53;female;"Brown velvet coat; sailor blouse; white, with blue anchor on front; blue flannel petticoat with ""E. M. C.""; blue corsets; blue skirt with black braid; black stockings and shoes. ";23.0
+54;female;"Black coat and skirt; black beaded blouse; grey knickers; black boots and stockings. One gold tooth on top. ";40.0
+55;female;"Black coat and skirt; black underskirt; grey petticoat; camisole with violet ribbon threaded through; woolen singlet; black stockings much darned at left knee; black shoes. ";30.0
+56;male;"Blue coat; striped trousers; flannel shirt; woolen singlet and drawers; black boots and socks. ";40.0
+57;male;;35.0
+58;male;"Dark mixture suit; check shirt; black boots; no marks on body or clothing. ";18.0
+59;male;"Dark mixture suit; striped flannel shirt; black silk muffler; black shoes. ";35.0
+60;male;"Blue coat; uniform vest; black trousers; black boots. ";43.0
+61;female;"Green waterproof; black coat; skirt; blouse; red cardigan jacket; black button boots with cloth uppers. ";30.0
+62;male;"Evening dress, with ""W. D. D."" on shirt. ";55.0
+63;female;"Blue dress and blouse; black shoes. ";22.0
+64;male;"Officers' uniform; double breasted uniform. ";34.0
+65;male;"Flannel shirt and drawers; serge trousers; no boots; ";25.0
+66;male;"Blue serge suit; blue striped flannel shirt; black boots and socks. ";50.0
+67;male;"Grey suit (knickers); striped shirt; black boots and stockings. ";14.0
+68;male;"Dark suit; black boots; grey socks. ";40.0
+69;male;"Dark suit; black boots and socks. ";24.0
+70;male;"Dark suit, vest and trousers; white socks; black boots. ";34.0
+71;male;"Blue uniform suit; black boots; ""hospital attendant' on coat; pants marked ""M. O."" ";45.0
+72;male;"Dark suit; brown socks; striped shirt; singlet marked ""M. A.""; no other marks. ";30.0
+73;male;"Uniform jacket; brown boiler suit; black boots; flannel singlet; black socks. ";35.0
+74;male;"Dark trousers; pajamas; jacket; black socks. ";36.0
+75;male;"Dark overcoat; dark suit; black socks; black boots; striped shirt. ";28.0
+76;female;"Light skirt; blue drawers; striped stockings; black boots. ";24.0
+77;male;"Dark suit; leather belt; flannel shirt. ";30.0
+78;male;"Dungaree coat and trousers; flannel singlet; no boots or socks. ";40.0
+79;male;"Black coat; velvet vest; check trousers; green socks; black boots. ";35.0
+80;male;"Evening dress; grey leather-lined overcoat; black boots. ";45.0
+81;male;"Blue serge coat and trousers; grey cardigan; white shirt; flannel singlet. ";35.0
+82;male;"Dark suit; steward's white coat; white shirt; black button boots. ";27.0
+83;male;"Dark suit; steward's waistcoat with buttons, and white coat. ";18.0
+84;male;"Dungaree coat and trousers; grey flannel shirt; no boots or socks. ";25.0
+85;male;"Blue serge suit; cotton shirt; White Star belt. ";31.0
+86;male;"Blue serge jacket and trousers; singlet. ";23.0
+87;male;"Dungaree trousers; blue coat and vest; grey flannel shirt. ";30.0
+88;male;"Dungaree trousers; flannel shirt. ";50.0
+89;male;"Dark suit; brown boots and socks. ";25.0
+90;male;"Black rainproof coat; dark mixture suit; white steward's coat marked "" A. Laurance""' knitted vest; green and pink pajamas. ";35.0
+91;male;"Steward's white coat; uniform vest; blue pants; black boots. ";25.0
+92;male;"Dungaree coat and trousers; grey flannel shirt. ";30.0
+93;male;"Black coat; steward's coat; two waistcoats; black boots; brown and blue striped pajamas; false teeth top jaw. ";30.0
+94;male;"Brown dungaree coat; blue pants; flannel shirt. ";30.0
+95;male;Singlet and pants. No Marks. ;20.0
+96;male;"Fur lined overcoat; grey trousers, coat, and vest; soft striped shirt; brown boots; black silk socks. ";65.0
+97;male;Black suit. ;42.0
+98;male;"Dark suit; grey socks; shirt; ""A. W. C."" on pants. ";35.0
+99;male;Black serge pants and jumper. ;29.0
+100;male;Steward's uniform. ;26.0
+101;male;"Grey overcoat; blue suit; blue socks; black boots; Boy's Brigade belt. ";20.0
+102;male;"Uniform vest; white jacket; black socks; no boots. ";34.0
+103;male;"Grey suit; soft striped shirt; brown boots. ";28.0
+104;male;"Grey suit; black boots; plain ring on left finger. ";38.0
+105;male;"Blue serge suit; striped shirt marked ""B. D.""; no singlet; black boots. ";30.0
+106;male;Blue serge suit. ;35.0
+107;male;"Uniform jacket and vest; White Star belt; pajamas. ";42.0
+108;male;"Green and brown mixture suit; white striped shirt; black boots. ";25.0
+109;male;"Brown suit; grey suit pyjamas; ""R. F."" on singlet. ";50.0
+110;male;"Green overcoat; dark suit; white shirt, blue stripe; purple socks. ";40.0
+111;male;"Boiler suit; blue serge suit. ";45.0
+112;male;"Steward's uniform; black boots. ";45.0
+113;male;"Dungaree trousers; navy singlet. ";42.0
+114;male;"Dungaree trousers; flannel shirt and drawers. ";40.0
+115;male;"Grey overcoat; blue coat; white waistcoat; striped shirt; wearing truss; black band on arm; patent shoes. ";25.0
+116;male;"Dark clothes with steward's jacket; black boots. ";26.0
+117;male;"Rough blue coat; grey tweed vest and trousers; grey wool socks; black boots. ";40.0
+118;male;Dungaree suit. ;52.0
+119;male;"Black overcoat; grey trousers and vest; blue vest; black boots. ";50.0
+120;male;"Grey coat, vest and trousers; black boots and socks. ";50.0
+121;male;"Fawn waterproof; grey mixed suit; pyjamas underneath; money belt. ";48.0
+122;male;"Black suit; white shirt; black boots. ";60.0
+123;male;"Brown jacket; uniform vest; black pants. ";24.0
+124;male;"Blue serge suit; blue handkerchief with ""A. V.""; belt with gold buckle; brown boots with red rubber soles; brown flannel shirt; ""J. J. A."" on back of collar. ";50.0
+125;male;"Steward's uniform; white and green striped pyjamas; black button boots; washing mark ""G. V. N."" ";17.0
+126;male;"Black clothes; flannel vest, and black and white vest; white shirt marked ""M. C. L.""; handkerchief marked ""M. C. L."" (monogram), and brown boots. ";35.0
+127;male;"Steward's uniform and white coat; purple and green pyjamas. ";18.0
+128;male;"Ship's uniform, (steward); grey overcoat; pyjamas under. ";21.0
+129;male;"Dungaree trousers and grey shirt; ";
+130;male;"Dark suit; abdominal belt. ";
+131;male;"Dark suit; woolen socks; buckle shoes. ";
+132;female;"Black skirt and blouse; no boots. ";40.0
+133;male;"Green suit; grey sweater and overshoes. ";50.0
+134;male;"Jacket marked ""A""; blue trousers; no boots. ";25.0
+135;male;"Leather coat; blue suit; grey silk muffler. ";
+136;male;"Shirt; pants; jumper; no boots. ";29.0
+137;male;Pants and singlet only. ;
+138;male;"Green overcoat; blue trousers; grey coat; Steward's white jacket; black boots and socks. ";30.0
+139;male;"Boiler suit and jacket; over grey flannel shirt and drawers. ";30.0
+140;male;"Dark mixture suit; blue wool jersey; black shoes. ";28.0
+141;male;"Striped coat; white coat marked ""A. May""; striped flannel shirt; blue trousers. ";30.0
+142;male;"Brown coat and vest; striped trousers; black boots. ";35.0
+143;male;"Grey suit; grey socks; no boots. ";35.0
+144;male;"Steward's uniform; white coat marked ""A. Wormald""; overcoat. ";45.0
+145;male;"Blue coat and vest; striped trousers; dungaree trousers; grey trousers. ";35.0
+146;male;"Black clothes; grey overcoat; white coat; striped pajamas. ";40.0
+147;;"Black overcoat; blue serge suit. ";45.0
+148;male;"Light grey overcoat; blue pajamas. ";28.0
+149;male;Dark suit. ;52.0
+150;male;"Blue suit; Company's vest and badge. ";22.0
+151;male;"Dark clothes; Steward's white coat. ";32.0
+152;male;Steward's uniform. ;38.0
+153;male;"Blue jacket; grey vest; black pants; black boots. ";
+154;male;"Blue jacket; grey vest; black pants. ";32.0
+155;male;"Dark clothes; pajamas underneath. ";31.0
+156;male;"Grey striped suit; no boots. ";25.0
+157;male;"Ship's uniform; white jacket; ship's keys; 10 pence; 50 cents; fountain pen. ";32.0
+158;male;"Boiler suit; no shoes or stockings; National Service and Firemen's Union N0. 64936. ";25.0
+159;male;"Blue jacket and vest; dark pants; pajamas under. ";50.0
+160;male;"Blue suit; no boots. ";42.0
+161;male;Rain coat over ship's uniform. ;40.0
+162;male;"Dungaree pants and singlet; no boots or socks. ";42.0
+163;male;Blue suit. ;38.0
+164;male;"Dungaree trousers; singlet; black boots. ";34.0
+165;male;"Blue suit; waterproof. ";35.0
+166;male;Blue suit. ;45.0
+167;male;Grey striped suit. ;38.0
+168;male;Black suit. ;35.0
+169;male;"Brown suit; white shoes. ";37.0
+170;male;"Black coat and suit; flannel shirt. ";25.0
+171;male;"Black overcoat; cardigan jacket; blue pants; blue shirt; black boots. ";70.0
+172;male;Black striped flannel suit. ;35.0
+173;male;"Blue suit; green shirt. ";27.0
+174;male;"Black overcoat; black frock coat; vest and trousers; gold watch and chain; Masonic charm pin; glasses; knife; photo; fountain pen; pipe lighter; gold links; 4 gold studs; purse; 7s. 2 3/4d.; gold mounted eyeglasses; £4 10s. in a sovereign purse; cigar holder; style pin. ";50.0
+175;male;"Grey overcoat; black striped suit; purple knitted tie. ";
+176;male;"Pepper and salt suit; brown knitted waistcoat; purple knitted tie; green striped flannel shirt; grey socks; no boots. ";46.0
+177;male;"Green coat; grey flannel shirt; Dungaree pants; no socks; engine room shoes. ";40.0
+178;male;"Blue serge suit; black boots and socks; uniform coat and waistcoat, with buttons. ";25.0
+179;male;"Dungaree pants; blue jacket; grey underwear. ";26.0
+180;male;"Steward's white coat; black coat; dungaree pants. ";40.0
+181;male;"Black coat and pants; blue waistcoat; cotton shirt; four shirts; black boots. ";28.0
+182;male;"Dungaree pants; grey singlet. ";45.0
+183;male;"Blue coat and vest; dungaree pants; striped shirt. ";
+184;male;"Blue suit; black shirt. ";30.0
+185;male;"Blue coat, brass buttons and trousers; steward's white coat; pajamas; green jersey (football); green jersey with white bands. ";25.0
+186;male;"Green double-breasted overcoat; dark suit; vest marked 'G. P. O.' ";26.0
+187;male;"Black suit; red and white cholera belt. ";40.0
+188;male;Grey flannel drawers and singlet. ;23.0
+189;male;"Black coat and vest; blue serge pants; grey shirt, marked ""J. R."" ";28.0
+190;male;"Brown overcoat; grey pants; green cardigan; blue jersey; black boots. ";22.0
+191;male;"Black overcoat and coat; blue serge pants; green drawers marked ""D.V.""; ship's vests; black boots. ";30.0
+192;male;"Blue serge suit; ship's jersey and black boots. ";37.0
+193;male;"Light rain coat; uniform jacket with green facing and vest; purple muffler. ";28.0
+194;male;"Grey overcoat; artex singlet; night shirt; dress trousers. ";35.0
+195;male;"Dungaree pants; serge jacket and vest; grey flannel shirt. ";22.0
+196;male;"Green striped suit; heavy blue wool vest; no boots. ";34.0
+197;male;"Black overcoat; dark suit; white pleated shirt; black boots. ";40.0
+198;male;"Dungaree suit; grey flannel suit. ";35.0
+199;male;"Green overcoat; steward's uniform; no shirt; grey singlet. ";30.0
+200;male;"White pants and coat; blue coat and apron; white coat marked ""J. D."" ";33.0
+201;male;Blue serge suit. ;55.0
+202;male;"Grey overcoat; grey muffler; uniform, green facing; green socks; crucifix. ";35.0
+203;male;;40.0
+204;male;"Dungaree pants; green coat and vest. ";23.0
+205;male;"Grey overcoat; check pants; green coat and vest; tooth brush; discharges from ""Oceanic"". ";44.0
+206;female;"Brown coat; green cardigan; dark skirt; brown skirt under; boots; no stockings. ";30.0
+207;male;"Green overcoat; dark suit; blue cardigan; blue silk pajamas. ";40.0
+208;male;"Dark suit; brown shirt, blue striped; black shoes; silk socks. ";50.0
+209;male;"Blue suit; white canvas shoes; flannel shirt. ";45.0
+210;female;"Long green overcoat; purple jacket and skirt; no corsets; brown shoes; black stockings. ";23.0
+211;male;Blue suit and saloon Steward's uniform. ;34.0
+212;male;"Steward's uniform; 1st class. ";38.0
+213;male;"No coat; grey singlet: trousers; green shirt. ";23.0
+214;male;;26.0
+215;male;"Black coat; pants; singlet; no shirt; white apron, one button lost. ";20.0
+216;male;"Steward's uniform; black boots; truss. ";30.0
+217;male;"Green overcoat; steward's uniform; brown waistcoat. ";50.0
+218;male;"Black overcoat; steward's uniform and white coat; black boots; flannel shirt; cholera belt ""H. C."" ";30.0
+219;male;"Brown overcoat; blue coat; fancy vest; striped shirt; black trousers; patent boots ";35.0
+220;male;"Black coat; flannel singlet; dungaree trousers. ";50.0
+221;male;"Green overcoat; dark coat and trousers; 'A. B."" on drawers. ";25.0
+222;male;"Grey singlet; blue trousers. ";35.0
+223;male;Steward's uniform. ;29.0
+224;male;"Uniform (green facing); brown overcoat; black boots; green socks. ";25.0
+225;male;"Dark coat; vest; blue pants; striped shirt. ";45.0
+226;male;"Steward's coat with singlet; flannel shirt. ";35.0
+227;male;"Dungaree coat and pants; grey shirt. ";30.0
+228;male;"Dungaree pants; grey shirt and drawers; dungaree coat; body belt; no boots; no effects. ";46.0
+229;male;Grey shirt and drawers. ;21.0
+230;male;Black suit and overcoat. ;6.0
+231;male;"Blue serge pants; green overcoat; flannel belt; drawers marked ""F. Roberts."" ";32.0
+232;male;"Black pants; grey overcoat, marked ""Sante."" ";33.0
+233;male;"Grey pants; print shirt. ";25.0
+234;male;;52.0
+235;male;"Blue suit; vest with company button; coat with buttons; ""T. B."" on singlet. ";40.0
+236;male;"Grey Suit; grey overcoat. ";60.0
+237;male;"Dark grey suit; ""F. H."" on shirt. ";18.0
+238;male;"Blue suit; Steward's jacket, marked ""Alfred King."" ";19.0
+239;male;"Blue suit; light overcoat; pajamas. ";47.0
+240;male;"Grey overcoat; blue serge suit; white sweater. ";24.0
+241;male;Steward's uniform. ;20.0
+242;male;"Black coat ; grey singlet and drawers. ";25.0
+243;male;"Black cloth overcoat; steward's coat; vest and pants; pajamas; ""Stone"" on trousers. ";30.0
+244;male;"Black coat, vest and pants; black boots. ";23.0
+245;male;"Evening dress; ""W. V."" on drawers; black boots. ";60.0
+246;male;"Steward's uniform; blue coat; ""R. A. Wareham"" on shirt. ";40.0
+247;male;"Blue suit; green waterproof; pajamas and cholera belt. ";30.0
+248;male;"Dungaree pants; grey striped jacket. ";40.0
+249;male;"Light overcoat; black pants; grey jacket; evening dress. ";65.0
+250;male;"Checked pants; blue jacket. ";36.0
+251;male;"Brown suit; Steward's jacket and buttons; blue pants below. ";50.0
+252;male;Blue suit. ;19.0
+253;male;"Black coat and vest; blue jersey; grey singlet; no socks. ";27.0
+254;male;"Dark mixture suit; grey flannel singlet. ";42.0
+255;male;"Grey suit; green flannel shirt; brown boots. ";40.0
+256;male;"Grey overcoat; fancy Vest; dark suit. ";40.0
+257;male;"Boiler suit; uniform jacket, double breasted; green striped flannel shirt. ";38.0
+258;male;"Grey coat; dress suit pants. ";56.0
+259;male;Grey tweed suit. ;17.0
+260;male;"Dark suit, green and white striped shirt; singlet; black boots. ";33.0
+261;male;"Green striped overcoat; blue suit. ";60.0
+262;male;"Steward's coat, vest & pants; green overcoat; ""A. Franklin"" on shirt. ";30.0
+263;male;"Light tweed suit; brown waistcoat. ";
+264;male;"Steward's white coat; blue coat and trousers; uniform vest; blue jersey; black boots; drawers marked ""H. Lyon."" ";35.0
+265;male;"Blue suit; Steward's uniform. ";35.0
+266;male;"Black trousers; dark coat; cotton shirt; Patent shoes. ";35.0
+267;male;"Blue suit; combination grey shirt. ";34.0
+268;male;"Dark pants; grey shirt; blue jacket; B. S. Union No. 601. ";55.0
+269;male;Green tweed suit and overcoat. ;65.0
+270;male;"Black pants; white coat with buttons; green rain coat; no shirt. ";23.0
+271;male;"Dark tweed suit; leather vest. ";55.0
+272;male;"Blue suit; white jacket. ";32.0
+273;male;"Ship's uniform; no vest or shirt; pajama suit; false upper teeth. ";30.0
+274;male;"Blue suit; no vest; pajamas and drawers, ""L. B."" ";25.0
+275;male;"Brown overcoat; dress pants; Tuxedo suit. ";60.0
+276;male;"Green suit; mourning band; flannel shirt. ";30.0
+277;male;"Checked trousers; blue coat and vest; dark overcoat; blue and white striped pajamas; brown boots; 'H. J."" on pajamas. ";35.0
+278;male;"Dungaree coat and pants; grey flannel drawers. ";25.0
+279;male;"Blue serge suit; white shirt; drawers. ";45.0
+280;male;"Dark coat and vest; dungaree pants. ";35.0
+281;female;"Black coat; blue skirt; red jersey; green blouse; woolen singlet; grey underskirt; black boots and stockings. ";30.0
+282;male;"Uniform jacket and trousers; green shirt; black coat; bandage on left leg. ";32.0
+283;male;"Grey and green suit; green overcoat; blue shirt; check front marked ""F""; black boots; ""C"" on singlet. ";36.0
+284;male;"Grey suit: dickey over striped cotton shirt; silver watch: match box; Medal; comb; pruning and pocket knife; purse, with 4s 11d.English, and $6.07 American; ticket book. ";24.0
+285;male;"Dark tweed suit; no shirt; grey drawers; black overcoat. ";37.0
+286;male;"Green raincoat; grey coat and vest; blue pants; white waistcoat with stripe; purple and green flannel shirt; brown drawers; black boots. ";36.0
+287;male;"Dark trousers and vest; no coat; green striped flannel shirt; no boots. ";32.0
+288;male;"Light striped trousers; black waistcoat; white shirt with fancy front. ";45.0
+289;male;"Uniform vest and pants; white jacket; green raincoat. ";25.0
+290;male;"Plain blue serge suit; Steward's white coat, marked ""Bristow""; cholera belt. ";36.0
+291;male;"Two pair pants; pajamas; blue suit; dark overcoat; uniform, buttons on vest; blue striped woolen vest. ";35.0
+292;male;"Dress suit; brown overcoat; ""T. C. Me."" on drawers. ";53.0
+293;male;"Black coat, fur lined Astrachan collar; grey suit; ""W. L"" on shirt. ";42.0
+294;male;"Blue suit; grey socks; low shoes. ";18.0
+295;male;"Grey overcoat; dark tweed suit. ";45.0
+296;male;"Dungaree suit; grey flannel shirt and drawers; no boots or socks. ";28.0
+297;male;"Black overcoat; blue serge suit; flannel shirt, blue stripe. ";28.0
+298;male;"Grey suit; white shirt with large red and blue stripes. ";32.0
+299;female;"Long blue overcoat; blue serge jacket and skirt; white blouse; blue corsets; grey knickers; 10s. in silver; £1 in gold; $5 note in purse; satchel; third class ticket No. 329944. ";18.0
+300;male;"Blue pants; Steward's white jacket. ";30.0
+301;male;"Fawn rain coat; black suit; black patent shoes; vest; no shirt; drawers marked ""P."" ";
+302;male;"Blue coat; dark pants; no boots or socks. ";26.0
+303;male;"Dungaree coat and pants; grey flannel shirt and drawers. ";
+304;male;"Blue suit; striped shirt; brown pants; three shirts. ";26.0
+305;male;"Dark brown striped suit; black overcoat; white shirt marked ""D. M.""; no socks; one white shoe; pink drawers. ";36.0
+306;male;"Blue coat; blue stripe pants; no vest; white shirt with embroidered front; leather sandals; brown belt. ";30.0
+307;male;;56.0
+308;male;;50.0
+309;;;
+310;male;;
+311;male;;19.0
+312;male;;45.0
+313;;;36.0
+314;;;
+315;male;;34.0
+316;male;;30.0
+317;male;;24.0
+318;male;;
+319;male;;
+320;male;;
+321;male;;28.0
+322;male;;35.0
+323;male;;12.0
+324;;;
+325;;;
+326;male;"Steward's white coat; light checked overalls; coat makers mark, ""Baker & Co."" ";50.0
+327;male;;38.0
+328;female;"Lace trimmed red and black overdress; black underdress; green striped underskirt; black woolen shawl; black slippers. ";14.0
+329;male;;38.0
+330;male;;50.0
